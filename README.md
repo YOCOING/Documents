@@ -34,6 +34,5 @@
 | 팀장 | [윤기쁨](https://github.com/givvemee) | 분배 예정 |
 | 팀원 | [김유리](https://github.com/glassk) | 분배 예정 |
 | 팀원 | [정성훈](https://github.com/fliklab) | 분배 예정 |
-| 팀원 | [조현홍](https://github.com/wigwam4)  | 분배 예정 |
 
 일정 추후 업데이트 
