@@ -34,6 +34,5 @@ When you need the file name of the copied code (e.g., when writing a technical b
 | Leader | [Vivi](https://github.com/givvemee) | TBA |
 | Member | [Yuri Kim](https://github.com/glassk) | TBA |
 | Member | [Flik](https://github.com/fliklab) | TBA |
-| Member | [Hyeonhong Cho](https://github.com/wigwam4)  | TBA |
 
 Schedules are TBD  
