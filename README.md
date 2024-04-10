@@ -3,7 +3,7 @@
 ### 🖋️ 초기 기획
 <details>
   <summary>초기 기획안</summary>
-  기획안 보러가기 : https://github.com/opensource-temp/Documents/.docs/concept.pdf
+   <a href='https://github.com/opensource-temp/Documents/.docs/concept.pdf'>기획안 보러가기</a>
 </details>
 
 <br />
