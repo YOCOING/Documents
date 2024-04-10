@@ -3,7 +3,7 @@
 ### 🖋️ Initial Plan
 <details>
   <summary>Initial Plan</summary>
-  Go to check plan : https://github.com/opensource-temp/Documents/.docs/concept.pdf
+  <a href='https://github.com/opensource-temp/Documents/.docs/concept.pdf'>Go to check plan</a>
 </details>
 
 <br />
