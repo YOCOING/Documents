@@ -1,4 +1,4 @@
-## Opensource Project (가제)
+# YOCO(YouOnlyCopyOnce)
 
 ### 🖋️ 초기 기획
 <details>
@@ -31,8 +31,13 @@
 ### ⚓️ 역할 및 일정 
 |   | 구성 | 역할  |
 |---|---|---|
-| 팀장 | [윤기쁨](https://github.com/givvemee) | 분배 예정 |
-| 팀원 | [김유리](https://github.com/glassk) | 분배 예정 |
-| 팀원 | [정성훈](https://github.com/fliklab) | 분배 예정 |
+| 팀장 | [윤기쁨](https://github.com/givvemee) | 기능 개발, 배포, 문서화 |
+| 팀원 | [김유리](https://github.com/glassk) | 기능 개발, 배포, 문서화 |
+| 팀원 | [정성훈](https://github.com/fliklab) | 기능 개발, 배포, 문서화 |
 
-일정 추후 업데이트 
+#### 일정
+> 2024.04.12 ~ 2024.04.20 필수 요구사항 기능 개발 및 1차 배포
+> 
+> 2024.04.21 ~ 추가 기능 개발
+> 
+> 2024.05.04 ~ 문서화 및 홍보
