@@ -35,7 +35,6 @@ When you need the file name of the copied code (e.g., when writing a technical b
 | Member | [Yuri Kim](https://github.com/glassk) | Feature Development, Deployment, Documentation |
 | Member | [Flik](https://github.com/fliklab) | Feature Development, Deployment, Documentation |
 
-#### 일정
 > 2024.04.12 - 2024.04.20: Development of essential features and initial deployment
 > 
 > 2024.04.21 - : Development of additional features
