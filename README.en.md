@@ -1,9 +1,9 @@
-## Opensource Project (Working Title)
+# YOCO(YouOnlyCopyOnce)
 
 ### 🖋️ Initial Plan
 <details>
   <summary>Initial Plan</summary>
-  <a href='https://github.com/opensource-temp/Documents/.docs/concept.pdf'>Go to check plan</a>
+  <a href="https://github.com/YouOnlyCopyOnce/Documents/blob/main/.docs/concept.pdf">Go to check plan</a>
 </details>
 
 <br />
@@ -31,8 +31,13 @@ When you need the file name of the copied code (e.g., when writing a technical b
 ### ⚓️ Roles and Schedule
 |   | Team | Role  |
 |---|---|---|
-| Leader | [Vivi](https://github.com/givvemee) | TBA |
-| Member | [Yuri Kim](https://github.com/glassk) | TBA |
-| Member | [Flik](https://github.com/fliklab) | TBA |
+| Leader | [Vivi](https://github.com/givvemee) | Feature Development, Deployment, Documentation |
+| Member | [Yuri Kim](https://github.com/glassk) | Feature Development, Deployment, Documentation |
+| Member | [Flik](https://github.com/fliklab) | Feature Development, Deployment, Documentation |
 
-Schedules are TBD  
+#### 일정
+> 2024.04.12 - 2024.04.20: Development of essential features and initial deployment
+> 
+> 2024.04.21 - : Development of additional features
+> 
+> 2024.05.04 - : Documentation and promotion 
